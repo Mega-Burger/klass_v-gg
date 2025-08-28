@@ -1,7 +1,7 @@
 # [Github konto namn]
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi: Jag skulle säg att det är datorer och ljud enheter till exempel ljud mixers högtallare och mycket mera telefoner random olika försök med att ladda ner olika operativ system på non supported hardware 
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen: Mitt måll med kurssen är att jag skulle kunna skapa lätta eller medium svåra program/sidor 
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**En rolig fakt:** jag är en audio freak så då det kommer till ljud kvalite så är det min grej.
